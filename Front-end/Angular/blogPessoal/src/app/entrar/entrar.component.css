@@ -7,3 +7,22 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.bg-coluna{
+    background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+}
+
+.text-color-size{
+    font-size: 30pt;
+    color: rgb(109, 8, 109);
+}
+
+.text-color{
+    font-size: 14pt;
+    color: rgb(109, 8, 109);
+}
+
+button{
+    color: white;
+    background-color: rgb(85, 76, 85);
+}
