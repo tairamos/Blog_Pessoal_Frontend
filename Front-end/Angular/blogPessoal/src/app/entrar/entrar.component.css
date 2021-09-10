@@ -1,5 +1,5 @@
 #img-bg{
-    background-image: url("https://i.imgur.com/9NN6S5l.jpg");
+    background-image: url("https://i.imgur.com/ZrEMhgh.jpg");
 
     min-height: 695px;
 
@@ -9,7 +9,7 @@
 }
 
 .bg-coluna{
-    background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+    background-image: linear-gradient(to top, #ffdbe5 0%, #fbc2eb 45%);
 }
 
 .text-color-size{
