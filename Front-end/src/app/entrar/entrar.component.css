@@ -1,0 +1,42 @@
+.background{
+    background-image: url(https://i.imgur.com/yHF1Yfu.jpg);
+    width: 100vw;
+    height: 100vh;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+button{
+    width: 100%;
+    margin-top: 15px;
+    border-radius: 25px;
+}
+
+.box{
+    background-color: rgb(255, 255, 255);
+    padding: 50px;
+    border: 2px solid #e7e7e7;
+}
+
+.form-control:focus{
+    border-color: rgb(218, 142, 29);
+    box-shadow: 0 0 2px rgb(218, 142, 29);
+}
+
+
+a{
+    color: rgb(109, 8, 109);
+}
+
+hr{
+    animation: slid-linha 2s;
+    text-align: left;
+    width: 200px;
+    background-color: rgb(109, 8, 109);
+}
+
+
+
+
